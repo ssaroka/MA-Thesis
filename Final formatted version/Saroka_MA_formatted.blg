@@ -1,0 +1,66 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Saroka_MA_formatted.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: chicago.bst
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+Database file #1: MAbib2.bib
+Warning--empty institution in Asuni19
+Warning--empty publisher in Bates08
+Warning--no number and no volume in ciesin2005
+Warning--page numbers missing in ciesin2005
+Warning--empty booktitle in Davenport07b
+Warning--no journal in Gilmorecode
+Warning--no number and no volume in Gilmorecode
+Warning--page numbers missing in Gilmorecode
+Warning--empty institution in HRW09
+Warning--empty institution in ICG06
+Warning--page numbers missing in Nwankpa14
+Warning--empty publisher in rossbook
+Warning--no number and no volume in Stina19
+Warning--page numbers missing in Stina19
+Warning--no journal in TRL7
+Warning--no number and no volume in TRL7
+Warning--page numbers missing in TRL7
+You've used 56 entries,
+            2861 wiz_defined-function locations,
+            968 strings with 12628 characters,
+and the built_in function-call counts, 35156 in all, are:
+= -- 2930
+> -- 2295
+< -- 2
++ -- 642
+- -- 810
+* -- 3062
+:= -- 6500
+add.period$ -- 164
+call.type$ -- 56
+change.case$ -- 376
+chr.to.int$ -- 55
+cite$ -- 73
+duplicate$ -- 988
+empty$ -- 2299
+format.name$ -- 914
+if$ -- 6483
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 55
+newline$ -- 278
+num.names$ -- 558
+pop$ -- 245
+preamble$ -- 1
+purify$ -- 712
+quote$ -- 0
+skip$ -- 1027
+stack$ -- 0
+substring$ -- 1953
+swap$ -- 318
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1066
+warning$ -- 17
+while$ -- 547
+width$ -- 0
+write$ -- 726
+(There were 17 warnings)

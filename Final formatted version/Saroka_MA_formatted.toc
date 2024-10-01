@@ -1,0 +1,12 @@
+\contentsline {chapter}{LIST OF TABLES}{vi}{section*.1}%
+\contentsline {chapter}{LIST OF FIGURES}{vii}{section*.2}%
+\contentsline {chapter}{INTRODUCTION}{1}{section*.2}%
+\contentsline {chapter}{LITERATURE REVIEW}{3}{section*.2}%
+\contentsline {chapter}{THEORY}{8}{section*.2}%
+\contentsline {chapter}{METHODS}{13}{section*.2}%
+\contentsline {subsection}{Descriptive Statistics}{15}{section*.3}%
+\contentsline {subsection}{Results: Logit Model}{23}{figure.caption.10}%
+\contentsline {subsection}{Analysis: Logit Model}{23}{table.caption.11}%
+\contentsline {chapter}{DISCUSSION AND CONCLUSION}{26}{figure.caption.12}%
+\contentsline {chapter}{APPENDIX}{28}{figure.caption.12}%
+\contentsline {chapter}{REFERENCES}{29}{section*.14}%
